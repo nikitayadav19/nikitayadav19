@@ -5,7 +5,7 @@
 <h2 align="center">Hi! I'm Nikita 👋</h2>
 
 <p align="center">
-  I'm Nikita Yadav, a passionate Full Stack Developer and Computer Science student at Chandigarh University 💻.
+  I'm Nikita Yadav, a passionate Full Stack Developer 💻.
 </p>
 
 ---
