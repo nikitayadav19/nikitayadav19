@@ -37,18 +37,18 @@
 
 
 #### **Database Management**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
-![Mongoose](https://img.shields.io/badge/-Mongoose-800000?style=flat-square)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-800000?style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 #### **Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel)  
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)  
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
