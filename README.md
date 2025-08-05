@@ -5,7 +5,6 @@
 <h1 align="center">Hi there 👋, I'm Nikita Yadav</h1>
 <h3 align="center">A Passionate Full Stack MERN Developer 🚀</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ---
 
